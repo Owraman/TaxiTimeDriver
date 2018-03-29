@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/React/Profiler/RCTProfile.h
