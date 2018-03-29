@@ -26,7 +26,7 @@ export default class Login extends Component < Props > {
     super(props);
 //    this.hideSplashScreen = this.hideSplashScreen.bind(this);
     this.routToMainPage = this.routToMainPage.bind(this);
-//    this.loginAsync = this.loginAsync.bind(this);
+    this.loginAsync = this.loginAsync.bind(this);
     this.validateLogin = this.validateLogin.bind(this);
     this.state = {
       userName: null,
@@ -111,8 +111,7 @@ export default class Login extends Component < Props > {
         this.setState({
           isLoading: true
         })
-        //  this.loginAsync();
-        this.routToMainPage();
+          this.loginAsync();
       } else {
         this.refs.modal2.open();
       }
@@ -125,6 +124,35 @@ export default class Login extends Component < Props > {
   }
   componentDidMount() {
     AndroidKeyboardAdjust.setAdjustNothing();
+  }
+  async loginAsync() {
+    try {
+      let response = await fetch(
+         //آدرس سرور
+       'http://192.168.2.8/api/driver/login',
+      {   method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            us: this.state.userName,
+            pass: this.state.password,
+          }),
+                //body: "pass="+this.state.password+"&us="+this.state.userName
+
+      }
+      );
+      let responseJson = await response.json();
+      this.setState({
+        isLoading: false
+      })
+      //this.routToMainPage();
+      Alert.alert('',responseJson.data.Dr_FullName+"")
+      //return responseJson.movies;
+    } catch (error) {
+      console.error(error);
+    }
   }
 }
 
