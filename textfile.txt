@@ -1,4 +1,4 @@
-Hi Navid
+
 test android branch is OK.
 
 change for ios
