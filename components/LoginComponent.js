@@ -123,7 +123,9 @@ export default class Login extends Component < Props > {
     this.props.navigation.navigate('MainComponent')
   }
   componentDidMount() {
+    if (Platform.OS !== 'ios') {
     AndroidKeyboardAdjust.setAdjustNothing();
+    }
   }
   async loginAsync() {
     try {
@@ -164,7 +166,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   inputs: {
-    fontFamily: "font",
+    fontFamily: "Samim",
     flex: 1,
     margin: 16,
 textAlign: 'right'
@@ -187,7 +189,7 @@ textAlign: 'right'
 
   },
   modalText: {
-    fontFamily: "font",
+    fontFamily: "Samim",
 
   }
 
