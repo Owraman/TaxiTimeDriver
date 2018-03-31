@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
     flexDirection: 'column'
   },
   loginButtonText: {
-    fontFamily: "font",
+    fontFamily: "Samim",
     flex: 1,
     height: 36,
     justifyContent: 'center',

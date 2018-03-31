@@ -26,7 +26,7 @@ export default class Login extends Component < Props > {
     super(props);
 //    this.hideSplashScreen = this.hideSplashScreen.bind(this);
     this.routToMainPage = this.routToMainPage.bind(this);
-//    this.loginAsync = this.loginAsync.bind(this);
+    this.loginAsync = this.loginAsync.bind(this);
     this.validateLogin = this.validateLogin.bind(this);
     this.state = {
       userName: null,
@@ -111,8 +111,7 @@ export default class Login extends Component < Props > {
         this.setState({
           isLoading: true
         })
-        //  this.loginAsync();
-        this.routToMainPage();
+          this.loginAsync();
       } else {
         this.refs.modal2.open();
       }
@@ -124,7 +123,40 @@ export default class Login extends Component < Props > {
     this.props.navigation.navigate('MainComponent')
   }
   componentDidMount() {
+    if (Platform.OS !== 'ios') {
     AndroidKeyboardAdjust.setAdjustNothing();
+    }
+  }
+  async loginAsync() {
+    try {
+      let response = await fetch(
+         //آدرس سرور
+       // 'http://192.168.2.8/api/driver/login',
+       // 'http://localhost/api/driver/login',
+       'http://darkcoffee.ir/api/driver/login',
+      {   method: 'POST',
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            us: this.state.userName,
+            pass: this.state.password,
+          }),
+                //body: "pass="+this.state.password+"&us="+this.state.userName
+
+      }
+      );
+      let responseJson = await response.json();
+      this.setState({
+        isLoading: false
+      })
+      //this.routToMainPage();
+      Alert.alert('',"نام راننده : "+responseJson.data.Dr_FullName+"")
+      //return responseJson.movies;
+    } catch (error) {
+      console.error(error);
+    }
   }
 }
 
@@ -136,7 +168,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   inputs: {
-    fontFamily: "font",
+    fontFamily: "Samim",
     flex: 1,
     margin: 16,
 textAlign: 'right'
@@ -159,7 +191,7 @@ textAlign: 'right'
 
   },
   modalText: {
-    fontFamily: "font",
+    fontFamily: "Samim",
 
   }
 
