@@ -152,7 +152,7 @@ export default class Login extends Component < Props > {
         isLoading: false
       })
       //this.routToMainPage();
-      Alert.alert('',responseJson.data.Dr_FullName+"")
+      Alert.alert('',"نام راننده : "+responseJson.data.Dr_FullName+"")
       //return responseJson.movies;
     } catch (error) {
       console.error(error);
