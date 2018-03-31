@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		dkQNV7IkGL+prPwYbc/Y0elx0xM=
+		umq8Xfbwvk143QRkq4ndgcil4dw=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -28,9 +28,50 @@
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<data>
+		ooz0sIAaLKBGoFU5iKq8DR11NmY=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<data>
+		R/knOPjsjrJNiVtUa2S4kYE749M=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<data>
+		qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+		</data>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<data>
+		K7jOt4uC+lqy/StneXlQVk21axY=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		M3EBma1BpAxt7iGIjYcrm9BnNOc=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		5EUn1qFgVTwSkfSLCubcLwgrx0c=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		Etc/8BPenX54rv1uBx24u4bnqTg=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		fF45fcc7Qk0YNCS+GKH6vhjId18=
+		181uRJTvJR4FeW0+ULgI9Tjz4E8=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -52,9 +93,29 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		Mp7yJqkm8daoXOAgixbJ7DdiMmI=
+		</data>
+		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Resources/DWARF/TaxiTimeDriverTests</key>
+		<data>
+		rZK8YJAOWiQE0FkBYn7ImFnPZpc=
+		</data>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/Info.plist</key>
+		<data>
+		0o+77wvsuLA2ukqYY7F4rL1aWok=
+		</data>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/TaxiTimeDriverTests</key>
+		<data>
+		5IClyeLrlxIKR26sRvN25wEluIE=
+		</data>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		0empe0qzCbPJmM9mSH43mbPRIcY=
+		</data>
 		<key>Samim.ttf</key>
 		<data>
-		MB/62LQzV1bDw1H0YiZT4fm7d8c=
+		oQV7kzkrtNuUcFy9mvQtK4QJgCA=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -71,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dkQNV7IkGL+prPwYbc/Y0elx0xM=
+			umq8Xfbwvk143QRkq4ndgcil4dw=
 			</data>
 			<key>hash2</key>
 			<data>
-			nzRFnjyuXsZ/Umt+p44flCTv+544XjXGrVV3TI6jOzA=
+			ynwYYT0gtDQK1TqLVWHSZoFRRL3K/Ac5KSe8LrqCRw0=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -133,6 +194,107 @@
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ooz0sIAaLKBGoFU5iKq8DR11NmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			QTZkTlnemyTcrFMb3v3GdQcfmpRodaOjtevd5TjxiiY=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R/knOPjsjrJNiVtUa2S4kYE749M=
+			</data>
+			<key>hash2</key>
+			<data>
+			wLDjbULmM78l0rN5jh2/yPax234qVZL29OQBQmdYmOU=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qcVgsOCxIzxwcNXLWXgRrNjnuT8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZARlo4LD/z4nYhaCEocjb6nPjuZDCrLsQzn0n4GVr3s=
+			</data>
+		</dict>
+		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			K7jOt4uC+lqy/StneXlQVk21axY=
+			</data>
+			<key>hash2</key>
+			<data>
+			VzM0aDQjkmLy+IyPasdn9DeGkOOTuNMbKUMz+3efAaU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CYfyvPIGUR84QvCD7SuNDvG6Bxc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xsgm2dBly62EneiB04ryti89smi53XIXAOtYLFyW4ZE=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M3EBma1BpAxt7iGIjYcrm9BnNOc=
+			</data>
+			<key>hash2</key>
+			<data>
+			qAlGOWS6ltLA/WrYd4Rz6EHPivttCiNu41NTW7ulBAI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5EUn1qFgVTwSkfSLCubcLwgrx0c=
+			</data>
+			<key>hash2</key>
+			<data>
+			55ZdMLgNGz7Q67XNAv/M4f4uXy0R2d5+tlHRhlkL8t4=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Etc/8BPenX54rv1uBx24u4bnqTg=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			</data>
+		</dict>
 		<key>Ionicons.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -177,15 +339,70 @@
 			IDC914RgQrcm7e1pDO4UjqugvZKBAae3xLoaLztAPMg=
 			</data>
 		</dict>
+		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Mp7yJqkm8daoXOAgixbJ7DdiMmI=
+			</data>
+			<key>hash2</key>
+			<data>
+			SWWIQjl15KweIFunQdYdaMvStv9iqzmsv77g8Ofy7vI=
+			</data>
+		</dict>
+		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Resources/DWARF/TaxiTimeDriverTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rZK8YJAOWiQE0FkBYn7ImFnPZpc=
+			</data>
+			<key>hash2</key>
+			<data>
+			a7sh5j6u1uEldlSF5ybeuvwCaaJm12ukG+5T6Tc0I6M=
+			</data>
+		</dict>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0o+77wvsuLA2ukqYY7F4rL1aWok=
+			</data>
+			<key>hash2</key>
+			<data>
+			fhObHwpBxHENU6G2mqWggcNrW/HpljVZODMMzoPbF5U=
+			</data>
+		</dict>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/TaxiTimeDriverTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5IClyeLrlxIKR26sRvN25wEluIE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NiWu8mBw4WuZ8z14EtjuE2R7XAWBJtRFoGELAH9AK2Q=
+			</data>
+		</dict>
+		<key>PlugIns/TaxiTimeDriverTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0empe0qzCbPJmM9mSH43mbPRIcY=
+			</data>
+			<key>hash2</key>
+			<data>
+			uRIOOP5Qj9TPzV2pORAnyGYWv93km0pD/SytF5XiVgE=
+			</data>
+		</dict>
 		<key>Samim.ttf</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MB/62LQzV1bDw1H0YiZT4fm7d8c=
+			oQV7kzkrtNuUcFy9mvQtK4QJgCA=
 			</data>
 			<key>hash2</key>
 			<data>
-			6r4I9yKYlIGBWXoCujsmdfNcRgaqXci/GUJTZv64sOs=
+			R//J6SyBJP0PizwxQRHwpi0N2taV8J4S9onCEjivSow=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>
