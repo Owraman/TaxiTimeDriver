@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

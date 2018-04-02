@@ -7,6 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "npm": "^4.2.0",
     "react": "16.2.0",
     "react-native": "0.53.0",
     "react-native-android-keyboard-adjust": "^1.1.1",
