@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		umq8Xfbwvk143QRkq4ndgcil4dw=
+		8xc9CeytLpCcuvObrBo+0us+FR0=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		181uRJTvJR4FeW0+ULgI9Tjz4E8=
+		I1nxSBPbUdUsD73e8n9fQV0mOzc=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -79,7 +79,7 @@
 		</data>
 		<key>MaterialCommunityIcons.ttf</key>
 		<data>
-		qsYaaEAlreJgw0cwmpP4T0ugnSE=
+		LlRFFQPKQ8n7uDUD5LZhbhx4DRE=
 		</data>
 		<key>MaterialIcons.ttf</key>
 		<data>
@@ -87,7 +87,7 @@
 		</data>
 		<key>Octicons.ttf</key>
 		<data>
-		43wPh5FmspBv+00q8kJl9AIbRBc=
+		+YreAPYbFuBieFv6gKSQafXjk7M=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -99,19 +99,19 @@
 		</data>
 		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Resources/DWARF/TaxiTimeDriverTests</key>
 		<data>
-		rZK8YJAOWiQE0FkBYn7ImFnPZpc=
+		g2zdDO3xxeSkPFo9PEj9MocbYkU=
 		</data>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/Info.plist</key>
 		<data>
-		0o+77wvsuLA2ukqYY7F4rL1aWok=
+		0Qsi5Zyo+CR60J140EWEr0x3e3c=
 		</data>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/TaxiTimeDriverTests</key>
 		<data>
-		5IClyeLrlxIKR26sRvN25wEluIE=
+		+poXvft4E7/FUs6vmcjVt8PM0xw=
 		</data>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		0empe0qzCbPJmM9mSH43mbPRIcY=
+		hVFsLieUsiYRvUJYmPt94dhNLiQ=
 		</data>
 		<key>Samim.ttf</key>
 		<data>
@@ -132,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			umq8Xfbwvk143QRkq4ndgcil4dw=
+			8xc9CeytLpCcuvObrBo+0us+FR0=
 			</data>
 			<key>hash2</key>
 			<data>
-			ynwYYT0gtDQK1TqLVWHSZoFRRL3K/Ac5KSe8LrqCRw0=
+			hVlOBq/cSpmZdPMgvB5mDhzDxi91fNaIUq2cWiTZxgM=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -310,11 +310,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qsYaaEAlreJgw0cwmpP4T0ugnSE=
+			LlRFFQPKQ8n7uDUD5LZhbhx4DRE=
 			</data>
 			<key>hash2</key>
 			<data>
-			q9ds9276vErG0wDQjAHtvPQadpxhrJDfPQ8UGJDid2g=
+			hvzI5Ll2LOfABnIPjqOG8YBKGtVVv2xJ+8XfCHVI35c=
 			</data>
 		</dict>
 		<key>MaterialIcons.ttf</key>
@@ -332,11 +332,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			43wPh5FmspBv+00q8kJl9AIbRBc=
+			+YreAPYbFuBieFv6gKSQafXjk7M=
 			</data>
 			<key>hash2</key>
 			<data>
-			IDC914RgQrcm7e1pDO4UjqugvZKBAae3xLoaLztAPMg=
+			NC9CWcIUkNdDyFv9XLIgM5voHcU7RU+sU2mnqmpBMI4=
 			</data>
 		</dict>
 		<key>PlugIns/TaxiTimeDriverTests.xctest.dSYM/Contents/Info.plist</key>
@@ -354,44 +354,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rZK8YJAOWiQE0FkBYn7ImFnPZpc=
+			g2zdDO3xxeSkPFo9PEj9MocbYkU=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7sh5j6u1uEldlSF5ybeuvwCaaJm12ukG+5T6Tc0I6M=
+			uAjXlehejJOwk8d9vnzIVVSo5eNGsWmo6GuT4WuVLj8=
 			</data>
 		</dict>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0o+77wvsuLA2ukqYY7F4rL1aWok=
+			0Qsi5Zyo+CR60J140EWEr0x3e3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			fhObHwpBxHENU6G2mqWggcNrW/HpljVZODMMzoPbF5U=
+			VrVtXp0HjDOw+rBhe2NxMvPTl5zoYw6Z3GM8eWgGB7s=
 			</data>
 		</dict>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/TaxiTimeDriverTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5IClyeLrlxIKR26sRvN25wEluIE=
+			+poXvft4E7/FUs6vmcjVt8PM0xw=
 			</data>
 			<key>hash2</key>
 			<data>
-			NiWu8mBw4WuZ8z14EtjuE2R7XAWBJtRFoGELAH9AK2Q=
+			owkfDae0hq5sBHovif7Gs8lExTZYG+FpZsvoBr6d4bM=
 			</data>
 		</dict>
 		<key>PlugIns/TaxiTimeDriverTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0empe0qzCbPJmM9mSH43mbPRIcY=
+			hVFsLieUsiYRvUJYmPt94dhNLiQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			uRIOOP5Qj9TPzV2pORAnyGYWv93km0pD/SytF5XiVgE=
+			SoTe5oTNLrCq8Gt7X2Jbt0zxPkkw7g5Ha8PpgI4JCZI=
 			</data>
 		</dict>
 		<key>Samim.ttf</key>

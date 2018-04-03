@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/TaxiTimeDriver/main.m \
-  /Users/navid/Documents/Programming/ReactNative/TaxiTime/TaxiTimeDriver/ios/TaxiTimeDriver/AppDelegate.h
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/TaxiTimeDriver/main.m \
+  /Users/lvlrx/Documents/Programming/TaxiTimeDriver/ios/TaxiTimeDriver/AppDelegate.h
